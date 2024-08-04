@@ -1,0 +1,1 @@
+{"mappings":"ACAA;;;;ACCI","sources":["c8aa696ec41b5a0e","src/assets/style.css","src/assets/style.scss"],"sourcesContent":["@import \"c56095b4800b895e\";\n@import \"f89002abbe292e7f\";\n","h1{\r\n    color: green;\r\n}",".content{\r\n    h2{\r\n        color: red;\r\n    }\r\n}"],"names":[],"version":3,"file":"index.c41b5a0e.css.map","sourceRoot":"/__parcel_source_root/"}
